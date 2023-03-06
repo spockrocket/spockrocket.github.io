@@ -3,7 +3,7 @@ layout: post
 title: 'Corpus linguistics: fascinating beyond words!'
 date: 2018-07-25 18:35:07 +0300
 description: Can the words Donald Trump uses tell us something about his neurological state? Corpus analysis at work!
-img: dementia-cloud.jpg # Add image post (optional)
+# img: dementia-cloud.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [corpus-linguistics, dementia, statistics, cognitive-linguistics, big-data, donald-trump, corpus-analysis]
 ---

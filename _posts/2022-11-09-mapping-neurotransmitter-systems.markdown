@@ -2,7 +2,7 @@
 layout: post
 title: Mapping neurotransmitter systems to the structural and functional organization of the brain
 date: 2022-11-09 09:30:00 +0300
-description: Neurotransmitters are chemicals brain cells use to communicate. They work together with matching receptors on the cell surface to drive brain activity.
+description: Aiming to build a brain atlas of neurotransmitter systems, researchers combine multi-modal imaging data to map receptor and transporter distribution to the structural and functional organization of the brain.
 tags: [HBHL, neuroinformatics, neuroimaging, open science, neuroscience, research, open data]
 ---
 Neurotransmitters are chemicals brain cells use to communicate. They work together with matching receptors on the cell surface to drive brain activity. 

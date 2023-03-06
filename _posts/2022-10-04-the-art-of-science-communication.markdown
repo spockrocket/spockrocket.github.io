@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Science Communication
-date: 2022-10-04 00:09:44 +0300
+date: 2022-10-04 09:44:00 +0300
 description: Intersectoral performance-art collective unites research knowledge and lived experience of neurodegenerative disease
 tags: [HBHL, science communication, performance art, Parkinson's disease, neuroscience, research, neurodegenerative disease]
 ---

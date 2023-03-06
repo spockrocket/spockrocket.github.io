@@ -3,7 +3,7 @@ layout: post
 title: Language, practically probabilistic!
 date: 2019-12-05 00:12:37 +0300
 description: Why have distributional approaches to NLP proven to be so successful? Word embeddings appear to have revealed the fundamentally probabilistic nature of meaning and how language is modelled physiologically by the human mind.
-img: dice.jpg # Add image post (optional)
+# img: dice.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [language-acquisition, natural language processing, NLP, neural networks, statistics, neurolinguistics]
 ---

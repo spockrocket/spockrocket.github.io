@@ -3,7 +3,7 @@ layout: post
 title: Does language make humans unique?
 date: 2018-08-06 00:13:25 +0300
 description: Humans like to point to several “defining features” that sets our species apart from other organisms, the foremost being our capacity for language. But just how true is this presumption?
-img: koko.jpg # Add image post (optional)
+# img: koko.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [language-acquisition, evolution, sign-language, foxp2, molecular-biology, evo-devo]
 ---

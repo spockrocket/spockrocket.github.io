@@ -7,6 +7,6 @@ tags: [HBHL, science communication, performance art, Parkinson's disease, neuros
 ---
 When Naila Kuhlmann came to McGill in 2017 to complete her PhD on Parkinson’s Disease, she found she was uncomfortable with how detached her work in the lab was from the lives of people living with the disorder...
 
-Read the <a href="https://www.mcgill.ca/hbhl/article/research-spotlight/art-science-communication">full article</a> at <a href="https://www.mcgill.ca/hbhl/](https://www.mcgill.ca/hbhl/category/article-categories/research-spotlight">Healthy Brains, Healthy Lives</a>.
+Read the <a href="https://www.mcgill.ca/hbhl/article/research-spotlight/art-science-communication">full article</a> at <a href="https://www.mcgill.ca/hbhl/category/article-categories/research-spotlight">Healthy Brains, Healthy Lives</a>.
 
 Link not working? Try the <a href="">archived link</a>.

@@ -11,4 +11,4 @@ She also noticed how little patients’ knowledge and expertise were used in gui
 
 Read the <a href="https://www.mcgill.ca/hbhl/article/research-spotlight/art-science-communication">full article</a> at <a href="https://www.mcgill.ca/hbhl/category/article-categories/research-spotlight">Healthy Brains, Healthy Lives</a>.
 
-Link not working? Try the <a href="">archived link</a>.
+Link not working? Try the <a href="https://web.archive.org/web/20230306204105/https://www.mcgill.ca/hbhl/article/research-spotlight/art-science-communication">archived link</a>.

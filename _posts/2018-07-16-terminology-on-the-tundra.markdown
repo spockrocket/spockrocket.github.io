@@ -3,9 +3,9 @@ layout: post
 title: Terminology on the tundra
 date: 2018-07-16 03:07:16 +0300
 description: Inuit Uqausinginnik Taiguusiliuqtiit (Nunavut’s language authority) declares an official Inuktitut term for cannabis.
-img: snowLeaf2.jpg # Add image post (optional)
+# img: snowLeaf2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [terminology, inuktitut, neologism, official-languages, cannabis]
+tags: [terminology, Indigenous Peoples, inuktitut, neologism, official languages, cannabis]
 ---
 Language is first and foremost utilitarian, its primary function being to convey conceptual information. It is no surprise, then, that specialized language develops in a niche milieu to suit the fundamental needs of speakers, as shaped by their environment. Take Inuktitut for example; while it is a common myth that the Inuit have over 50 different words for snow or ice — Inuktitut has roughly the same number of root words for ice and snow as English — the statement is based in some truth.
 

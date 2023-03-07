@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Dara O'Connor # add your name
 author-img: Minimal.png # add your photo
-about-author: I'm a translator (EN/FR/SP), technical writer and copywriter based in Montreal, Québec. <br>I love languages and dabble in natural language processing (NLP). <br><br><strong>Fun Fact!</strong> Before studying translation at the University of Ottawa's School of Translation and Interpretation, I studied biology and bioinformatics, and I worked in the biomedical sciences.
+about-author: I'm a translator (EN<>FR<SP), technical writer and copywriter based in Montreal, Québec. <br>I love languages and dabble in natural language processing (NLP). <br><br><strong>Fun Fact!</strong> Before studying translation at the University of Ottawa's School of Translation and Interpretation, I studied biology and bioinformatics, and I worked in the biomedical sciences.
 
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
